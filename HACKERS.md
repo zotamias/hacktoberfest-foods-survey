@@ -3,3 +3,8 @@
 - Age: 16
 - Favorite Food: Pizza
 ---
+
+- [Arendt](https://github.com/Arendt)
+- Age: 23
+- Favorite Food: Pizza
+---
