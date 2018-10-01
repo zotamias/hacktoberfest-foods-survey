@@ -8,4 +8,11 @@ Well, you're in luck because Hacktoberfest is happening right now!  Not familiar
 
 # Instructions
 
+Fork this repository and edit [HACKERS.md](https://github.com/LiamD3V/hacktoberfest-foods-survey/blob/master/HACKERS.md) using this format: 
 
+```
+- [Github Name](https://github.com/github-url)
+- Age: Your age
+- Favorite Food: Your favorite food
+---
+```
