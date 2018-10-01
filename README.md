@@ -11,8 +11,12 @@ Well, you're in luck because Hacktoberfest is happening right now!  Not familiar
 Fork this repository and edit [HACKERS.md](https://github.com/LiamD3V/hacktoberfest-foods-survey/blob/master/HACKERS.md) using this format: 
 
 ```
-- [Github Name](https://github.com/github-url)
+- [Your Github name](https://github.com/your-github-url)
 - Age: Your age
 - Favorite Food: Your favorite food
 ---
 ```
+
+After that, create a pull request and if all is well, watch your pull request meter go up for Hacktoberfest!
+
+**Happy Hacktoberfest Everyone!**
