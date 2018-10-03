@@ -8,3 +8,8 @@
 - Age: 23
 - Favorite Food: Pizza
 ---
+
+- [Shotozuro](https://github.com/shotozuro)
+- Age: 26
+- Favorite Food: Chicken Soup
+---
