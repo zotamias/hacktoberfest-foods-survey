@@ -13,3 +13,8 @@
 - Age: 26
 - Favorite Food: Chicken Soup
 ---
+
+- [DusekDan](https://github.com/DusekDan)
+- Age: 25
+- Favorite Food: Demonic Cucumber (spicy food)
+---
