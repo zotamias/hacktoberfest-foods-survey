@@ -28,6 +28,12 @@
 - Age: 21
 - Favorite Food: Meat
 ---
+
+- [Mike](https://github.com/savagemike)
+- Age: Unknown
+- Favorite Food: kimchi mandu
+---
+
 - [IceeMC](https://github.com/IceeMC)
 - Age: 14
 - Favorite Food: Cake
